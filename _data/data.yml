@@ -1,108 +1,98 @@
-name: John Doe
+name: Hassan Rahnama
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
-  gitlab: 
-  twitter: 
+  email: hassanrahnama1 [at] gmail [dot] com
+#   github: 
+  linkedin: hassan-rahnama
+#   youtube: 
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Farsi
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
-
+  - degree: MSC in Electrical engineering
+    time: 2016-2018
+    university: Sharif University of Technology
+  
+  - degree: BE in Electrical engineering
+    time: 2012-2016
+    university: K. N. Toosi University of Technology(khaje-nasir)
+    
 skills:
-  - category: Backend
-    skill: 
-      - Go
-      - Rust
-  - category: Frontend
+  - category: Dev languages
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - Python
+      - C
+      - Matlab
+  - category: Test tools
     skill:
+      - Selenium
+      - Pytest
+      - RobotFramework
+      - API
+      - Post-man
+      - Swagger
+      - etc
+
+  - category: Other
+    skill:
+      - Computer networks
+      - Django framework
+      - Git
+      - Linux
+      - CI/CD (Jenkins, gitlab-ci)
       - Docker
-      - Kubernetes 
+      - CCNA
+      - Database (mysql, sqlite, redis)
+      - TestRail / Testlink
+      - Jira / Confluence
+      - Notion
+      - JetBrain IDEs
+      - Grafana
+      - Kubernetes
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
-
+   - Certified Python and QA Automation developer.
+   - 5 years of working career with 3 years of experience in Software QA including Automated and Manual testing of web-based (UI, API, Backend) and testing Network devices (switch, router , optical moduls,...)
+   - Expert on creating Test Automation framework from scratch using Python 
+   - Solid understanding of Scrum and SDLC in an Agile style development of software.
+   - Experienced in working with cloud-based environments and orchestration tools like Docker, Kubernetes.
+   - Familiar with QA-DevOps activities such as integrate Test-cases into CI/CD pipelines.
+   - Expert in identifying and reporting defects using various bug tracking tools
+   - Experienced in writing test documentation (test plans, test cases, test suites)
+   - Ability to learn new technologies and concepts quickly and implement them
+   - Passionate about QA Automation process and coding
+   - Enthusiastic, knowledge-hungry, self-starter, eager to meet challenges and quickly assimilate latest technologies, skills, concepts, and ideas
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: QA Automation Developer
+    time: Dec 2019 - Present
+    company: SINA Communication Systems
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
-  
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+      SINA CO. As a knowledge-based company, is working on providing telecom core-network solutions and optical transmition systems
+      I was responsible for:
+      - Create Test plans based on the project requirement documents
+      - Implement Test Automation framework from scrach using Python and network protocols for testing network devices
+      - Implementing and maintenance automation scripts using Pure Python/dedicated framework/Robotframework/Selenium,etc
+      - Configure and run automation tests in CI/CD
+      - Integrating tests on CI/CD (Jenkins)
+      - Implement Test webserver for developers to run tests automatically using Django, Angular
+      - R&D on QA developing to be updated with the latest technologies and solving challenges specially in computer networking field
+      - Collaborating with other teams to solve faults found by automated tests
+      Website: https://www.sinacomsys.com/
+    technologies_used: |
+      Python, Pytest, Jenkins, Postman, Robotframework, Jira/Confluence
+experience:
+  - role: QA Automation Developer
+    time: Dec 2014 - Aug 2015
+    company: Zaeim Electronic Industries
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
-
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
-
-projects:
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Zaeim Electronic Industries is an Information and Communication Technology (ICT) based solution provider 
+      I was responsible for develop signal proccessing algorithms
+ 
+      Website: https://www.zaeim.com
